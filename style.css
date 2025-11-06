@@ -1,0 +1,14 @@
+:root{--accent:#2b8be6;--danger:#e64545}
+*{box-sizing:border-box;font-family:Segoe UI, Roboto, Arial, sans-serif}
+body{margin:0;padding:20px;background:#f6f8fb;color:#111}
+header h1{margin:0 0 4px 0;font-size:20px}
+.config, .panels, .results{background:white;padding:12px;border-radius:6px;margin:12px 0}
+.add-row input{width:100px;margin-right:8px}
+textarea{width:100%;margin-top:8px}
+table{width:100%;border-collapse:collapse;margin-top:8px}
+th,td{padding:6px;border-bottom:1px solid #eee;text-align:left}
+.danger{color:var(--danger);font-weight:700}
+.ok{color:green}
+.actions{margin-top:10px}
+button{background:var(--accent);color:white;border:none;padding:6px 10px;border-radius:4px;cursor:pointer}
+button:disabled{opacity:.6}

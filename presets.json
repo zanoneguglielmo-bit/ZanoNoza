@@ -1,0 +1,7 @@
+{
+  "EsempioController": {
+    "ports": 4,
+    "capacityPerPort": 2073600,
+    "notes": "Valore esemplificativo: sostituire con la capienza reale del controller Novastar"
+  }
+}
